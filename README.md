@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Deadlock Detective
 
 ## Automated Deadlock Detection Tool for Operating Systems
@@ -579,3 +580,7 @@ This project is created for educational purposes.
 **Made with ❤️ for learning Operating Systems**
 
 **Happy Deadlock Detecting! 🔍**
+=======
+# trial-os-ca-termpaper
+this is not to be submitted 
+>>>>>>> a3f783bbb0dcd23f644bd898bd1b7d1831f2135a
